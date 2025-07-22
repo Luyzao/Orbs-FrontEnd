@@ -57,12 +57,12 @@ Algumas telas desenvolvidas para o aplicativo.
 
 ## ❇️ Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,prisma,supabase,,github,figma,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,prisma,supabase,nextjs,github,figma,ai)](https://skillicons.dev)
 
-- React, para UI.
-- Node para o Back-end, repositório do back: https://github.com/Luyzao/Orbs-BackEnd.
+- React e Next.js, para estrutura as páginas, juntamente com PrimeReact, tailwind e primeflex para estilos e componentes.
+- Node e prisma para o Back-end, repositório do back: https://github.com/Luyzao/Orbs-BackEnd.
 - API do chatgpt, para treinamento e geração de scripts de análises financeiras pela IA.
-- Supabase e Prisma, para gerenciamento e arquitetura do banco de dados.
+- Supabase e Prisma, para gerenciamento e arquitetura do banco de dados PostgreSQL.
 - GitHub para versionamento de código.
 - Figma, e illustrator para o desenvolvimento dos protótipos e todos os componentes visuais do aplicativo.
 
